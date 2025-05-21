@@ -1,1 +1,1 @@
-C:\Users\rsmj9\Documents\Datalogi\Projekter\Rust\target\debug\Rust.exe: C:\Users\rsmj9\Documents\Datalogi\Projekter\Rust\src\main.rs
+C:\Users\rsmj9\Documents\Datalogi\Projekter\Rust\target\debug\Rust.exe: C:\Users\rsmj9\Documents\Datalogi\Projekter\Rust\src\funcs\func1.rs C:\Users\rsmj9\Documents\Datalogi\Projekter\Rust\src\funcs\mod.rs C:\Users\rsmj9\Documents\Datalogi\Projekter\Rust\src\main.rs
